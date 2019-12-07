@@ -1062,6 +1062,9 @@
             ".reverseTimeline": {
               "display": "flex",
               "flex-direction": "column-reverse"
+            },
+            ".mbr-timeline-title": {
+              "text-align": "center"
             }
           },
           "_name": "timeline2",
