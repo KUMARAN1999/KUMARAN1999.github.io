@@ -32,8 +32,8 @@
         "#0e338f"
       ]
     },
-    "favicon": "",
-    "noImageResize": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "noImageResize": false,
     "google-analytics": "",
     "versionFirst": "4.3.0",
     "uniqCompNum": 29,
@@ -50,7 +50,13 @@
         "name": "Kaushan Script",
         "url": "https://fonts.googleapis.com/css?family=Kaushan+Script:400"
       }
-    ]
+    ],
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
